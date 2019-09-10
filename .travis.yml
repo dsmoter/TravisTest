@@ -6,4 +6,5 @@ node_js:
 git:
   depth: 5
 
-cache: false
+cache:
+  npm: false
